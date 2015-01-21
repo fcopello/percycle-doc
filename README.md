@@ -1,4 +1,4 @@
-# Percycle Showcase Documentation
+# Percycle Showcase
 
 Essa documentação visa explicar a implementação da vitrine de recomendações da Percycle.
 
@@ -170,7 +170,7 @@ metus eget erat. Phasellus cursus aliquam purus sed molestie.
 
 }
 .showcases .who-saw #box-who-saw {
-  padding-bottom: 20px;  
+  padding-bottom: 20px;
 }
 </style>
 ```
