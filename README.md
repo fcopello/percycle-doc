@@ -2,6 +2,8 @@
 
 Essa documentação visa explicar a implementação da vitrine de recomendações da Percycle.
 
+
+
 ## Parameters
 
 
@@ -87,7 +89,7 @@ var percycleCallback = function(json) {
 }
 ```
 
-## Iterando resultados
+## Percorrendo a lista de resultados
 
 Os resultados da API serão carregados no objeto em uma coleção chamada recommendations,  `json.recommendations`, como o exemplo a seguir.
 
