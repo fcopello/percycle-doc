@@ -235,7 +235,7 @@ Exemplo completo de implementação.
      script.onload = script.onreadystatechange = function () {
        if (!this.readyState || this.readyState === "loaded" || this.readyState === "complete") {
          percycle.trackPageView(parameters);
-         percycle.getSimilarItems("zoom", "242112", percycleCallback);
+         percycle.getSimilarItems("<your-partner-id>", "<item-id>", percycleCallback);
          script.onload = script.onreadystatechange = null;
        }
      };
