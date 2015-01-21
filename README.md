@@ -78,7 +78,7 @@ Carregando `getSimilarItems` em conjunto com a chamada do `trackPageVIew`.
 
 ## Implementando o callback
 
-A implementação do `callback` precisa definir apenas uma parâmetro como demonstra o exemplo abaixo como o parâmetro `json`.
+A implementação do `callback` precisa definir apenas uma parâmetro como demonstra o exemplo abaixo o parâmetro `json`.
 
 ```javascript
 var percycleCallback = function(json) {
@@ -124,7 +124,7 @@ A tabela a seguir especifica quais são as propriedades retornadas no objeto de 
   </tr>
 <table>
 
-Toda a estrutura de código `html` fica do lado cliente permitindo assim qualquer customização de componentes e styling.
+Toda a estrutura de código `html` fica do lado cliente permitindo assim qualquer customização de componentes e estilização.
 
 ```html
 innerHTML[innerHTML.length] = '<li>';
@@ -139,11 +139,7 @@ innerHTML[innerHTML.length] = '<p class="product-name">';
 
 ## Customizing/Styling
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Sed orci turpis, molestie ac mi ut, ornare scelerisque sapien.
-Nullam feugiat ornare sollicitudin. Phasellus tristique, dolor id
-vestibulum pretium, tortor nulla tincidunt sapien, ac feugiat est
-metus eget erat. Phasellus cursus aliquam purus sed molestie.
+Insira o código CSS baixo dentro da tag `head` do seu site.
 
 ```css
 <style>
@@ -177,7 +173,7 @@ metus eget erat. Phasellus cursus aliquam purus sed molestie.
 
 ## Sample code
 
-Exemplo completo da implementação da vitrine Percycle.
+Exemplo completo de implementação.
 
 ```html
    <script type="text/javascript">
