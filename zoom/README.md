@@ -2,6 +2,8 @@
 
 Código de instalação da vitrine.
 
+A documentação completa está disponível no seguinte [link](https://github.com/fcopello/percycle-doc).
+
 
 ## CSS
 
